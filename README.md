@@ -14,7 +14,7 @@ It's to use a deck without cloud storage. Choose "web" as file store option. In 
 
 ### Deploy
 
-Click here :point_right: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/decko-commons/heroku-deck) and fill in the fields.
+Click here :point_right: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/decko-commons/decko-heroku) and fill in the fields.
 
 #### Additional information about your config options ####
 Wagn uses [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) and [Fog](https://github.com/fog/fog) 
